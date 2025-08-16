@@ -1,3 +1,8 @@
+# My Contributions:
+
+Although I worked on most parts of the engine, I specialized in the implementation of 3D graphics, including both the integration of the graphics library and the design and optimization of the rendering system in C++. Additionally, I developed the scripting system, enabling the creation of dynamic scripts for designing independent games that leverage the architecture and features of our engine, implemented in C++ and LUA.
+
+
 # Motor
 ## Autores
 - Javier Comas de Frutos [(Usuario GitHub: javixxu)](https://github.com/javixxu)
